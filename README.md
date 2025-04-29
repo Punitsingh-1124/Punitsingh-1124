@@ -25,7 +25,7 @@ With skills in **JavaScript, Node.js, React, Next.js, MongoDB**, and more, I lov
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (formerly Twitter)" height="30" width="40" />
   </a>
   
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/in/punit-singh-037b86362" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
