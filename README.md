@@ -9,9 +9,8 @@
 
 ### 👨‍💻 About Me
 
-🔭 Currently working on **Backend Development Projects**  
-🌱 Learning **Backend Tech** , **AWS** and **Docker**  
-📫 Reach me at: **punitsingh2413@gmail.com**
+* 💼 Open to Work
+* 📫 Reach me at: **punitsingh2413@gmail.com**
 
 I'm a **Full Stack Developer** passionate about building scalable products and contributing to open-source.  
 With skills in **JavaScript, Node.js, React, Next.js, MongoDB**, and more, I love solving real-world problems and exploring new technologies to continuously grow as a developer.
